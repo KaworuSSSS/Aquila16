@@ -32,3 +32,12 @@ Software:
 ## Estado
 
 🚧 En desarrollo
+## Desarrollo
+
+El proyecto se desarrolla por etapas:
+
+1. Hardware base
+2. CPU
+3. Periféricos
+4. Herramientas software
+5. Sistema completo
